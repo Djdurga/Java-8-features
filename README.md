@@ -34,10 +34,4 @@ IO Enhancements,
 
 Concurrency Enhancements
 
-
-
-
-
-
-
 JDBC Enhancements etc.
